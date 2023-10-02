@@ -1,0 +1,17 @@
+.thumbnail-images {
+  width: 105px;
+}
+
+.eachThumbnailItem {
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-bottom: 15px;
+  border-radius: 5px;
+}
+
+.thumbnail-btn {
+  background-color: transparent;
+  border-width: 0px;
+  cursor: pointer;
+  outline: none;
+}
